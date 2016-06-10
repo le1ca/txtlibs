@@ -1,0 +1,36 @@
+"Son of a ${adjective} ${animal}! I knew I never should have
+${tvpt:transitive verb, past tense} that ${n:noun}," said ${name:name}.
+
+${name:} cleaned some ${adjective} ${n:} juice off his
+${aoc:article of clothing} and continued walking down the street.
+
+"What's up my ${nonsense word}," ${name:} heard his friend ${friend:name}
+yell from across the way.
+
+"Not much, just got done cleaning ${n:} juice off my ${aoc:}," responded
+${name:}.
+
+"How the ${expletive} did you get ${n:} juice on your ${aoc:}?" said
+${friend:}.
+
+"Well, you know... I just ${tvpt:} it a little bit."
+
+"What the ${expletive}? You disgusting ${adjective} ${adjective}
+${farm animal}! How the ${expletive} could you have ${tvpt:} a ${n:}? That is
+the most ${adjective} thing I have ever heard! I don't know how I can ever
+talk to you again!"
+
+${friend:} ran down the street, screaming "You ${adjective} ${insult, noun}!"
+
+${name:} proceeded ${adverb} on his way.
+
+The next day, ${name:} saw ${friend:} again -- unbeknownst to ${friend:}.
+${friend:} was hiding behind a ${hspot:noun} in an alley... It looked like he
+had just ${tvpt:} a ${n:}.
+
+"Hey ${friend:} you ${adjective} hypocrite!" yelled ${name:}. "You can't deny
+you just ${tvpt:} a ${n:}!" ${friend:} admitted his deed, "You're right, I have
+${tvpt:} a ${n:} every day for the past ${number} years. Sorry for yelling at
+you yesterday." 
+
+${name:} and ${friend:} remained best friends for the next ${number} years.

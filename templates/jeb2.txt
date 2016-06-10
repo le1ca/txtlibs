@@ -1,0 +1,10 @@
+I love ${noun1:plural noun}.
+${noun1:} are great because they are ${adj1:adjective}.
+I am a ${size:size} ${noun2:noun}.
+Give me a ${noun3:}. JEEZ OH MAN!
+${num:number} days ago I ${pverb1:past tense verb} a ${noun4:noun} 
+${verbi:verb ending in ing} on a ${noun5:noun}.
+I was feeling ${emotion:emotion(scared, tired etc)}.
+OH ${ex:exclamation!}!!
+${ex1:exclamation!}! ${ex2:exclamation!} ${ex3:exclamation!}.
+I AM A MESS.

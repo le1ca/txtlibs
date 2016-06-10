@@ -1,0 +1,47 @@
+There are lots of planets in the universe. We all know about the ones in our
+solar system, but nobody really knows about ${p:made up planet name}.
+
+${p:} was discovered in ${year} by Professor ${first name} ${ln:last name}. He
+happened upon it by accident while looking for a ${restaurant} in the
+${direction (east, west, ...)} quadrant of the ${g:adjective} galaxy.
+
+Once Dr. ${ln:} had located the planet, he sent his student ${fn:male first name}
+${last name} to explore it on his ${adjective} flying saucer. Dr. ${ln:} put
+${fn:} into a cryogenic stasis, since it was going to take him ${n:number} years
+to travel the ${number} miles to ${p:}.
+
+After those ${n:} long years, ${fn:}'s flying saucer crashed into a ${adjective}
+${b:biome (forest, tundra, ...)} on ${p:}. ${fn:} was awoken from his stasis
+and was extremely ${emotion (happy, scared, ...)}. Having no idea where he was,
+exited the saucer and started looking around the ${b:}.
+
+Right outside the saucer, ${fn:} found a cave full of ${adjective}
+${a:animal}-like creatures. ${fn:} wasn't sure whether the ${a:}s were friendly
+or if they were ${d:negative demeanor (e.g. rude, feisty, ...)}.
+
+${fn:} hid in some bushes and watched the ${a:}s for a while. However, his
+${body part} was sticking out of the bush, so one of the ${a:}s saw him and came
+to investigate. It turns out that they were very, very ${d:}.
+
+Unable to communicate in the ${a:}'s alien language, ${fn:} tried to show that
+he meant no harm by giving him a ${gest:gesture (thumbs up, wave, ...)}. 
+Unfortunately, a ${gest:} means ${insult} in the ${a:} culture.
+
+The ${a:} started a commotion and suddenly ${fn:} found himself surrounded by
+the whole colony of ${number} ${a:}s. They pointed their ${weap:weapon}s at
+${fn:}. ${fn:} was really ${emotion}.
+
+The chief ${a:} poked ${fn:}'s ${body part} with his ${weap:}. Startled, ${fn:}
+jumped and a ${cn:concrete noun} fell out of his ${clothing article}. The chief
+was amazed. He had never seen a ${cn:} before. He picked it up and screamed,
+"${nonsense word}!"
+
+${fn:} was nervous but also ${emotion}. He stared at the chief for a while until
+they both broke out in laughter. The chief took off his mask -- it turns out it
+was Dr. ${ln:} all along! All the other ${a:}s took off their masks too -- they
+were just a few of ${fn:}'s classmates.
+
+${fn:} had been fooled. He felt like a total ${insult}. The flying saucer wasn't
+real, ${p:} wasn't real, the ${a:}s certainly weren't real. 
+
+${exclamation}!, said ${fn:}. You're all a bunch of ${insult, plural}!

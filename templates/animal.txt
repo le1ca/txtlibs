@@ -1,0 +1,9 @@
+There once was an ${kind:animal} named ${name:name}. He was the ${superlative}
+${kind:} in all of ${place:place}. He really liked to ${tverb:transitive verb}
+${pnoun:plural noun}. But, one day ${name:} woke up and found out there were no
+more ${pnoun:} left in ${place:}! What would ${name:} ${tverb:} now? ${name:}
+went searching throughout ${place:} looking for something to ${tverb:}. After
+${number} hours of searching, ${name:} discovered a huge stash of
+${pnoun2:plural noun}. ${name:} thought to himself, I wonder if I can ${tverb:}
+these? Unsure, ${name:} brought a few of them home and found out that it is even
+more fun to ${tverb:} ${pnoun2:} than to ${tverb:} ${pnoun:}!

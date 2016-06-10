@@ -1,0 +1,14 @@
+Once upon a ${noun}, there was a ${adjective} ${adjective} ${occ1:occupation}
+named ${name1:name} who had a ${adjective} ${bpart:body part}. One day,
+${name1:} heard a knock at his door. He looked outside and saw a ${adjective}
+${adjective} ${occ2:occupation} who said that ${name1:} had
+${v:past tense transitive verb} his ${adjective} ${obj:noun}. ${name1:} had no
+idea what the ${occ2:} was talking about and told him to go ${transitive verb}
+a ${noun}. The ${occ2:} got ${emotion} and ran away. The next day, ${name1:} ran
+into the ${occ2:} on his way to ${place:place}. The ${occ2:} called ${name1:} a
+${insult} and ${transitive verb} ${name1:}'s ${body part}. ${name1:} fell to
+the ground and suddenly the ${obj:} fell out of his ${orifice}. The ${occ2:}
+said, I knew you had it! But ${name1:} had no idea what was going on. He had
+never seen the ${obj:} before. Suddenly, ${celebrity} appeared from behind a
+${hiding place} and said, haha ${name1:}, you've been ${verb past tense}! 
+

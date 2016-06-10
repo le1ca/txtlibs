@@ -1,0 +1,16 @@
+${name:male name} is a ${n1:noun}.
+${name:} is the ${superlative (adjective ending in est)} person on this stage by far.
+${name:} is a ${n2:noun} and everybody knows it.
+${name:} is so ${adjective}, it's laughable.
+${name:} is a ${n1:}.
+${name:} is a ${n2:}.
+${name:} is a ${adj1:size} ${adj2:adjective} ${noun}.
+${name:} is a ${adj1:} ${adj2:} ${n1:}.
+
+${number} days ago he said he would take his ${article of clothing} off and moon everybody.
+He is a ${adj3:adjective} guy, a ${adj3:} guy.
+${name:} is a ${adj3:} guy.
+
+I don't often agree with ${name}, and I dont often agree with ${name}.
+I say this every night, every day, every afternoon and it's true.
+${name:} is a ${n1:}.

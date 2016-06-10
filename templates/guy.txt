@@ -1,0 +1,7 @@
+there once was an ${adj:adjective} man named ${adj1:adjective} ${name1:name}. They called him ${adj1:} ${name1:} 
+because when he was a kid he ${verb1:verb ending in ed} a ${noun1:noun}. It was ${adj2:adjective} and it caused his
+teachers to ${verb2:verb} ${pn:plural noun}. ${adj1:} ${name1:} was actually incredibly 
+${adj6:adjective} as evidenced by his ${emo1:emotion (love, hate)} for ${pn2: plural noun}.
+At first they all doubted him because of his ${adj3:adjective} demeanor. But then they found 
+out that he was actually ${adj4:adjective} and it made them feel ${adj5:adjective}. 
+When ${adj1:} ${name1:} turned ${num1:number}, he got ${verb4:verb ending in ed}.

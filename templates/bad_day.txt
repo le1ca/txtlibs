@@ -1,0 +1,66 @@
+As soon as ${name:name} woke up this past ${day:day of the week},
+${pronoun:he/she (corresponding to the name you entered)} knew it was going
+to be a bad day.
+
+${pronoun:} woke up to ${ppronoun:his/her (corresponding)} ${pet:animal}
+dropping a dead ${gift:animal} right on ${ppronoun:} ${body part}. The ${gift:}
+was bleeding everywhere and smelled like ${adjective}
+${noun - something that smells bad}.
+
+After scolding ${ppronoun:} ${pet:}, ${name:} put the ${gift:} in the trash.
+However, the ${pet:} was insistent that ${name:} should appreciate its gift.
+Unbeknownst to ${name:}, the ${pet:} got the ${gift:} back out of the trash and
+started tearing it to shreds. ${name:} only learned of this upon stepping on its
+${adjective} ${bp:body part} in the ${room in house (kitchen, bedroom, ...)}.
+
+${name:} threw away the ${gift:}'s ${bp:} and went on a search for the rest of
+it. ${pronoun:} found a ${body part} in the ${room in house}, a ${body part} in
+the ${room in house}, and a ${body part} in the ${room in house}. However, the
+${lost:body part} was nowhere to be found.
+
+Realizing that ${pronoun:} was late to work, ${name:} forgot all about the
+${gift:} and sprinted outside to the car. Speeding to work, ${pronoun:} got
+pulled over for speeding -- going ${number} in a ${smaller number}-MPH zone.
+The officer also accused ${name:} of being drunk and made ${pronoun:} get out
+of the car for a sobriety test, making ${pronoun:} even later. ${pronoun:}
+muttered under ${ppronoun:} breath, what a ${insult} ${farm animal}. The cop
+overheard ${pronoun:} and wrote ${pronoun:} a ticket for
+${present tense transitive verb} the peace.
+
+When ${pronoun:} was almost to work, ${ppronoun:} boss called ${pronoun:}.
+"Why aren't you here?" he said. "Uh, it's a long, ${adjective} story," said
+${name:}. "Whatever," said ${ppronoun:} boss, "just get here as soon as
+possible. The board of directors is waiting for you to give your presentation."
+
+"Oh, ${noun}!" said ${name:}. ${pronoun:} had forgotten all about that.
+${pronoun:} hadn't prepared at all, ${pronoun:} had no idea what ${pronoun:}
+was going to say. ${name:} finally arrived at work and sprinted up the stairs
+to the board room.
+
+"Nice of you to join us," said one of the directors - a ${adjective}
+${age  (e.g. young, old, ...)} man with ${hc:color} hair and a ${adjective}
+${color} suit.
+
+Not knowing how to respond, ${name:} began ${ppronoun:} presentation.
+
+"The first thing you have to realize about ${product:noun} is that it is capable
+of anything," said ${name:}. "Everybody needs a ${product:} even if they don't
+know it."
+
+"You can get a ${product:} anywhere, but you really need a ${adjective} one for
+it to be effective. Especially if you want to ${transitive verb, base form} a
+${noun} or go ${tv:transitive verb, base form} a ${tvn:noun}."
+
+"Stop right there," said the ${hc:}-haired director. "You're telling me your 
+${product:} can ${tv:} a ${tvn:}?"
+
+"Uh, sure, why not," said ${name:}. "Here, let me show you." ${name:} reached
+into ${ppronoun:} bag and pulled out a ${adjective}, ${adjective} ${product:}
+and ${number} ${adjective} ${pn:plural noun}. You just ${tv2:transitive verb}
+the ${nw:nonsense word}, then you can ${tv:} anything you want. 
+
+${name:} activated the ${nw:}, but what happened next wasn't what ${name:}
+expected.
+
+It didn't ${tv:} the ${pn:} -- instead, it shot a ${gift:}'s ${lost:} right
+into the director's ${body part}.

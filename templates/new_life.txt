@@ -1,0 +1,67 @@
+Once upon a time there was a ${animal:animal} named ${name:name}. ${name:} was
+the ${superlative} ${animal:} in all of ${country1:country}. He really liked to
+${verb:intransitive verb, base form}. Sometimes, he would ${verb:} all day long.
+
+After ${number} years of the same routine, ${name:} got bored of it. He decided
+he'd start a new life, without ever trying to ${verb:} again. Instead, he would
+start a business selling ${pnoun:plural noun}. ${name:} traveled all the way to
+${country} to find ${pnoun:} for cheap, then went all over the world selling
+them.
+
+After ${number} years of successful business, ${name:} was rich. He had sold
+over ${big number} ${pnoun:} and made $${big number}. He bought a giant house
+in ${country2:country} near a ${natural landmark (beach, mountain, ...)}. He
+also bought a ${car:fancy car} and ${number} ${pnoun2:plural noun}. He was
+living the good life and was totally ${emotion}.
+
+One day, ${name:} got a call from the ${leader:leader (president, king, ...)}
+of ${country1:}. The ${leader:} said he needed somebody to ${verb:} on his
+behalf at ${country1:}'s national ${holiday:holiday} festival. The ${leader:}
+knew that ${name:} used to ${verb:} all the time, and couldn't find anyone else
+who could ${verb:} as well.
+
+${name:} told the ${leader:} that he had quit his old life and never wanted to
+${verb:} again. The ${leader:} was ${negative emotion}. Without someone to
+${verb:} for the ${holiday:} festival, the people of ${country1:} would be
+incredibly ${negative emotion}.
+
+${name:} didn't want to give up his new life in ${country2:}, or his big
+${adjective} house. However, he felt an obligation to help his ${adjective}
+homeland.
+
+The next day, ${name:} hopped in his ${car:} and started driving back to
+${country1:}. It was a long drive, and would take ${number} days. When the sun
+set on the ${ordinal number (e.g, -th suffix, less than the previous number)}
+day, ${name:} wasn't near any town so he decided to pull over and sleep in a
+cave by the side of the road. To his surprise, there was a
+${age (young, old, ...)} ${adjective} wizard already living in the cave.
+
+The wizard was sleeping; not wanting to disturb him, ${name:} decided to leave
+and find another place to sleep. Unfortunately, while leaving, ${name:} tripped
+over a ${noun} and fell to the ground with a huge ${noise}. "Holy ${noun}, that
+hurt like a ${insult}," said ${name:}. The wizard awoke from his slumber and
+brandished his wand, then screamed, "${spell:nonsense word}!"
+
+Suddenly, ${number} ${adjective} skeletons appeared out of thin air. The
+skeletons had ${weapon, plural} and started attacking ${name:}. One of them
+got ${name:} in the ${bpart:body part} and ${name:} fell to the ground while
+yelling "You stupid bony ${insult}, that was my ${bpart:}!"
+
+All the skeletons converged on ${name:}, determined to win. ${name:} knew it was
+over... There was no chance...
+
+Suddenly, ${name:} woke up. There were no skeletons, and there was nothing
+wrong with ${name:}'s ${bpart:}. Could it all have been a dream?
+
+"Haha, like you could really summon skeletons just by saying '${spell:},'"
+${name:} mused while returning to the ${car:}.
+
+To ${name:}'s surprise, the car was gone. Who could have taken it? This is the
+middle of nowhere!
+
+Before ${name:} even had time to panic, the ${car:} came speeding down the road.
+It came to a stop, and amazingly it was being driven by a skeleton!
+
+"Did somebody call me?," the skeleton said.
+
+THE END.

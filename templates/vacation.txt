@@ -1,0 +1,7 @@
+Last ${holiday:holiday}, we all went to ${noun1:noun} land.  ${noun1:} land is a very
+${adjective1:adjective} place because of all the ${adjective2:adjective}
+${pnoun1:plural noun} everywhere. In addition to the ${pnoun1:}, there are also 
+${pnoun2:plural noun} and ${pnoun3:plural noun}. While we were there, we had a 
+run-in with ${pnoun3:}... it caused my ${rel: relationship (mom, dad, friend, gf)},
+${name:name} to ${verb1:verb base form} all night on the first night we were there. Besides
+that, we had a ${adjective2:adjective} time. 
